@@ -27,8 +27,8 @@ body
     border-radius: 50%;
     transform: translateZ(-100px);
     animation: animate 3s ease-in-out infinite;
-    background: #ff9b001c;
-    -webkit-box-reflect: below 1px linear-gradient(#0001, #0002);
+    /* background: #ff9b001c;
+     -webkit-box-reflect: below 1px linear-gradient(#0001, #0002); */
 }
 @keyframes animate
 {
